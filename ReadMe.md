@@ -20,7 +20,7 @@
 	</a>
 </div>
 
-### Welcome to the Flipper Zero Unleashed Firmware repo! 
+### Welcome to the Flipper Zero Mischief Firmware repo! 
 
 #### **This firmware is a fork from** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
 
