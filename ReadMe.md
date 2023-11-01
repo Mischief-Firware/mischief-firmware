@@ -1,6 +1,8 @@
 <h3 align="center">
-<a href="https://github.com/DarkFlippers/unleashed-firmware">
-<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="fzCUSTOM" border="0">
+<h>Mischief Firmware</h>
+<br></br>
+<a href="https://github.com/flippermischief/mischief-firmware">
+<img src="https://github.com/flippermischief/mischief-firmware/assets/123574555/fc0c6687-43ce-4c47-b2bd-1e305c26944f" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
 <div align="center" id="badges">
